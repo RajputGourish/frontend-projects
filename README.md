@@ -1,44 +1,55 @@
 # 🚀 Frontend Projects Portfolio
 
-A curated collection of frontend projects built using **HTML, CSS, and JavaScript**, showcasing real-world UI clones, utility apps, and problem-solving skills.  
-These projects demonstrate my learning journey from **basic HTML structures** to **interactive JavaScript applications**.
+A curated collection of frontend projects built using **HTML, CSS, and JavaScript**, showcasing UI development, layout practice, and problem-solving skills.
+
+These projects are arranged from **basic → advanced** to highlight my learning progression.
 
 ---
 
 ## 🌟 Projects Overview
 
-| #  | Project Name            | Focus Area                     | Tech Used            | Demo |
-|----|-------------------------|--------------------------------|----------------------|------|
-| 01 | HTML Portfolio          | Personal webpage, HTML basics  | HTML                 |  🔗  | 
+| #  | Project Name     | Focus Area                     | Tech Used       | Demo |
+|----|------------------|--------------------------------|-----------------|------|
+| 01 | HTML Portfolio   | Semantic structure, basics     | HTML            |  🔗  |
+| 02 | Camera Webpage   | Sidebar, layout, styling       | HTML, CSS       |  🔗  |
 
-> Projects are ordered from **basic → advanced**, showing skill progression.
+> More projects will be added as I continue building.
 
 ---
 
-## 📚 What I Learned
-- Structuring clean and semantic HTML pages
-
+## 📚 What I’m Practicing Through These Projects
+- Writing clean and semantic HTML
+- Building layouts with CSS
+- Creating responsive and interactive UI
+- Understanding how real websites are structured
+- Managing projects using Git & GitHub
 
 ---
 
 ## 🛠 Tech Stack
-- HTML5
+- HTML5  
+- CSS3  
+- JavaScript (upcoming projects)  
+- Git & GitHub
 
 ---
 
-## 🌐 How to Use / View
-1. Click into any project folder
-2. Open `index.html` in your browser
-3. Explore the code and project structure
+## 🌐 How to Run the Projects
+1. Open any project folder  
+2. Open `index.html` in your browser  
+3. Explore the UI and source code
 
-> Optional: Live demo links can be added later for each project.
+Live demo links will be added gradually.
 
 ---
 
 ## 👤 Author
-**Gourish Rajput**  
-- Email: gourishrajput000@gmail.com  
-- GitHub: [RajputGourish](https://github.com/RajputGourish)  
-- Instagram: [rajputgourish](https://www.instagram.com/rajputgourish)
+**Gourish Rajput**
 
-> Made with ❤️ while learning frontend development and building real-world projects.
+- GitHub: https://github.com/RajputGourish  
+- Email: gourishrajput000@gmail.com  
+- Instagram: https://www.instagram.com/rajputgourish
+
+---
+
+> Made with ❤️ while learning and building in public.
