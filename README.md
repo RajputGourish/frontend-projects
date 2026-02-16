@@ -1,45 +1,46 @@
 # 🚀 Frontend Projects Portfolio
 
-A curated collection of frontend projects built using **HTML, CSS, and JavaScript**, showcasing UI development, layout practice, and problem-solving skills.
+A curated collection of frontend projects built using **HTML, CSS, and JavaScript**, focused on UI development, layout practice, and strengthening core fundamentals.
 
-These projects are arranged from **basic → advanced** to highlight my learning progression.
+Projects are organized from **basic → advanced** to clearly show my learning journey and growth.
 
 ---
 
 ## 🌟 Projects Overview
 
-| #  | Project Name     | Focus Area                     | Tech Used       | Demo |
-|----|------------------|--------------------------------|-----------------|------|
-| 01 | HTML Portfolio   | Semantic structure, basics     | HTML            |  🔗  |
-| 02 | Camera Webpage   | Sidebar, layout, styling       | HTML, CSS       |  🔗  |
+| #  | Project Name              | Focus Area                     | Tech Used       | Demo |
+|----|---------------------------|--------------------------------|-----------------|------|
+| 01 | HTML Portfolio            | Semantic structure, basics     | HTML            | 🔗 |
+| 02 | Camera Webpage            | Sidebar, layout, styling       | HTML, CSS       | 🔗 |
+| 03 | UltraEdit Landing Clone   | Real website recreation        | HTML, CSS       | 🔗 |
 
-> More projects will be added as I continue building.
+> New projects will be added regularly as I continue learning and building.
 
 ---
 
-## 📚 What I’m Practicing Through These Projects
-- Writing clean and semantic HTML
-- Building layouts with CSS
-- Creating responsive and interactive UI
-- Understanding how real websites are structured
-- Managing projects using Git & GitHub
+## 📚 Skills I’m Developing Through These Projects
+- Writing clean, semantic, and accessible HTML
+- Building structured layouts using CSS
+- Recreating real-world website designs
+- Improving UI accuracy and spacing
+- Managing and documenting code with Git & GitHub
 
 ---
 
 ## 🛠 Tech Stack
 - HTML5  
 - CSS3  
-- JavaScript (upcoming projects)  
+- JavaScript *(coming in upcoming projects)*  
 - Git & GitHub
 
 ---
 
 ## 🌐 How to Run the Projects
 1. Open any project folder  
-2. Open `index.html` in your browser  
-3. Explore the UI and source code
+2. Launch `index.html` in your browser  
+3. Explore the UI and review the code
 
-Live demo links will be added gradually.
+Live demo links will be added progressively.
 
 ---
 
@@ -52,4 +53,4 @@ Live demo links will be added gradually.
 
 ---
 
-> Made with ❤️ while learning and building in public.
+> Built with ❤️ while learning, improving, and sharing my journey in public.
