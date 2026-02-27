@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Martel+Sans:wght@200;300;400;600;700;800;900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+    --Netflixfont: "poppins", "Bebas Neue", "Martel Sans", sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: var(--Netflixfont);
+}
+
+body{
+    background-color: #161616;
+}
+
+.logo {
+    margin: 0 35px;
+    display: flex;
+    align-items: center;
+    height: 100px;
+}
+
+.logo>img {
+    width: 150px;
+    z-index: 10;
+}
+
+.main {
+    height: 130vh;
+    background-image: url(Assets/Images/bg1.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 130%;
+    position: relative;
+}
+
+.box {
+    height: 130vh;
+    width: 100%;
+    background-color: black;
+    position: absolute;
+    top: 0;
+    opacity: 0.5;
+}
+
+.signin {
+    width: 480px;
+    height: 110vh;
+    background-color: rgba(0, 0, 0, 0.759);
+    margin: auto;
+    z-index: 1;
+}
+
+
+/* Inside form */
+
+form {
+    width: 350px;
+    color: #fff;
+    margin: auto;
+
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    position: relative;
+}
+
+.signtext {
+    margin-top: 45px;
+}
+
+.input {
+    width: 317px;
+    padding: 15px;
+    font-size: 16px;
+    background-color: rgba(119, 118, 118, 0.22);
+    color: #fff;
+    border: 1px solid rgb(116, 115, 115);
+    border-radius: 4px;
+}
+
+.input:focus {
+    outline: 2px solid #fff;
+    outline-offset: 1px;
+}
+
+.button {
+    color: #fff;
+    background-color: rgb(229, 9, 20);
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 7px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.or {
+    align-self: center;
+}
+
+.btncol {
+    background-color: #3a3636;
+}
+
+.forgetpw {
+    align-self: center;
+    color: #fff;
+}
+
+
+.Remember {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+input[type="checkbox"] {
+    display: none;
+}
+
+.custom-checkbox img {
+    width: 19px;
+}
+
+.custom-checkbox {
+    background-color: black;
+    border: 1px solid #4c4b4b;
+    border-radius: 2px;
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+    display: inline-block;
+    position: relative;
+    transition: background 0.3s;
+}
+
+input[type="checkbox"]:checked+.custom-checkbox {
+    background-color: white;
+}
+
+.Remember:hover .custom-checkbox {
+    transition: all 0.3s;
+    border: 1px solid #fff;
+}
+
+.signup {
+    color: #b4b3b1;
+}
+
+.signup a {
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.signup a:hover {
+    text-decoration: underline;
+}
+
+.lasttext {
+    font-size: 13px;
+    color: #939c9c;
+}
+
+.Learn {
+    color: #438cf1;
+}
+
+footer {
+    background-color: #161616;
+    color: #8e8e8e;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrap {
+    width: 75vw;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 20px 30px;
+}
+
+.footer a {
+    font-size: 14px;
+    color: #8e8e8e;
+}
+
+#lang {
+    display: flex;
+    align-self: flex-start;
+    background-color: transparent;
+    color: #fff;
+    padding: 3px 25px;
+    border: 1px solid rgb(93, 91, 91);
+    border-radius: 3px;
+    font-size: 16px;
+}
