@@ -14,7 +14,8 @@ Projects are organized from **basic → advanced** to clearly show my learning j
 | 02 | Camera Webpage              | Sidebar, layout, styling                | HTML, CSS       |  🔗  |
 | 03 | UltraEdit Landing Clone     | Real website recreation                 | HTML, CSS       |  🔗  |
 | 04 | Netflix Landing Page Clone  | Complex layout, hero section, UI cloning| HTML, CSS       |  🔗  |
-| 05 | Spotify Music Player Clone  | Audio player & dynamic playlist | HTML, CSS, JavaScript | 🔗 |
+| 05 | Spotify Music Player Clone  | Audio player & dynamic playlist | HTML, CSS, JavaScript   |  🔗  |
+| 06 | X (Twitter) UI Clone | Social media layout using Tailwind | HTML, Tailwind CSS          |  🔗  |
 
 > New projects will be added regularly as I continue learning and building.
 
