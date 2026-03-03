@@ -1,34 +1,58 @@
 # 🚀 Frontend Projects Portfolio
 
-A curated collection of frontend projects built using **HTML, CSS, and JavaScript**, focused on UI development, layout practice, and strengthening core fundamentals.
+A curated collection of frontend projects built while learning and mastering **HTML, CSS, JavaScript, React, and Tailwind CSS**.
 
-Projects are organized from **basic → advanced** to clearly show my learning journey and growth.
+Projects are organized from **basic → advanced** to clearly showcase my growth from static pages to interactive and state-driven applications.
 
 ---
 
 ## 🌟 Projects Overview
 
-| #  | Project Name                | Focus Area                              | Tech Used       | Demo |
-|----|-----------------------------|-----------------------------------------|-----------------|------|
-| 01 | HTML Portfolio              | Semantic structure, basics              | HTML            |  🔗  |
-| 02 | Camera Webpage              | Sidebar, layout, styling                | HTML, CSS       |  🔗  |
-| 03 | UltraEdit Landing Clone     | Real website recreation                 | HTML, CSS       |  🔗  |
-| 04 | Netflix Landing Page Clone  | Complex layout, hero section, UI cloning| HTML, CSS       |  🔗  |
-| 05 | Spotify Music Player Clone  | Audio player & dynamic playlist | HTML, CSS, JavaScript   |  🔗  |
-| 06 | X (Twitter) UI Clone | Social media layout using Tailwind | HTML, Tailwind CSS          |  🔗  |
+| #  | Project Name | Focus Area | Tech Used | Demo |
+|----|--------------|------------|------------|------|
+| 01 | HTML Portfolio | Semantic structure & fundamentals | HTML | 🔗 |
+| 02 | Camera Webpage | Sidebar layout & styling practice | HTML, CSS | 🔗 |
+| 03 | UltraEdit Landing Clone | Real-world landing page recreation | HTML, CSS | 🔗 |
+| 04 | Netflix Landing Page Clone | Complex hero section & UI replication | HTML, CSS | 🔗 |
+| 05 | Spotify Music Player Clone | Audio player with dynamic playlist & JS logic | HTML, CSS, JavaScript | 🔗 |
+| 06 | X (Twitter) UI Clone | Social media layout using Tailwind CSS | HTML, Tailwind CSS | 🔗 |
+| 07 | To-Do List App (React) | Component-based task manager with LocalStorage persistence | React, Tailwind CSS | 🔗 |
 
-> New projects will be added regularly as I continue learning and building.
+> 🚀 More projects will be added as I continue advancing in Frontend Development.
 
 ---
 
-## 📚 Skills I’m Developing Through These Projects
+## 📚 Skills Developed Through These Projects
 
-- Writing clean, semantic, and accessible HTML
-- Building structured layouts using CSS
-- Working with Flexbox for alignment
-- Recreating real-world website designs
-- Improving UI accuracy and spacing
-- Managing and documenting code with Git & GitHub
+### 🔹 Core Fundamentals
+- Writing clean, semantic HTML
+- Structuring responsive layouts
+- Understanding UI hierarchy and spacing
+
+### 🔹 CSS & Layout
+- Flexbox & positioning
+- Responsive design principles
+- Pixel-perfect UI cloning
+- Tailwind CSS utility-first styling
+
+### 🔹 JavaScript & Interactivity
+- DOM manipulation
+- Event handling
+- Audio controls & playlist logic
+- LocalStorage data persistence
+
+### 🔹 React Development
+- Functional components
+- useState hook
+- Component reusability
+- Managing application state
+- Persistent storage integration
+
+### 🔹 Version Control
+- Git workflow
+- Meaningful commits
+- Repository structuring
+- Clean documentation
 
 ---
 
@@ -36,29 +60,54 @@ Projects are organized from **basic → advanced** to clearly show my learning j
 
 - HTML5  
 - CSS3  
-- JavaScript *(coming in upcoming projects)*  
-- Git & GitHub
+- JavaScript (ES6+)  
+- React.js  
+- Tailwind CSS  
+- Git & GitHub  
 
 ---
 
 ## 🌐 How to Run the Projects
 
-1. Open any project folder  
-2. Launch `index.html` in your browser  
-3. Explore the UI and review the code
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/RajputGourish/frontend-projects.git
+```
 
-Live demo links will be added progressively.
+### 2️⃣ Navigate into a project folder
+```bash
+cd project-folder-name
+```
+
+### 3️⃣ For HTML/CSS Projects
+Open `index.html` in your browser.
+
+### 4️⃣ For React Projects
+```bash
+npm install
+npm start
+```
+
+---
+
+## 🎯 Purpose of This Repository
+
+This portfolio represents my journey of:
+- Learning by building real-world UI clones
+- Improving consistency and code structure
+- Moving from static websites → interactive apps → React-based projects
 
 ---
 
 ## 👤 Author
 
-**Gourish Rajput**
+**Gourish Rajput**  
+B.Sc. Computer Science Student | Frontend Developer  
 
 - GitHub: https://github.com/RajputGourish  
 - Email: gourishrajput000@gmail.com  
-- Instagram: https://www.instagram.com/rajputgourish
+- Instagram: https://www.instagram.com/rajputgourish  
 
 ---
 
-> Built with ❤️ while learning, improving, and sharing my journey in public.
+> Built with consistency and the goal of becoming a better developer every day 🚀
