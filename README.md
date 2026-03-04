@@ -17,38 +17,39 @@ Projects are organized from **basic → advanced** to clearly showcase my growth
 | 05 | Spotify Music Player Clone | Audio player with dynamic playlist & JS logic | HTML, CSS, JavaScript | 🔗 |
 | 06 | X (Twitter) UI Clone | Social media layout using Tailwind CSS | HTML, Tailwind CSS | 🔗 |
 | 07 | To-Do List App (React) | Component-based task manager with LocalStorage persistence | React, Tailwind CSS | 🔗 |
+| 08 | Password Manager App | Credential manager with LocalStorage persistence | React, Tailwind CSS | 🔗 |
 
 > 🚀 More projects will be added as I continue advancing in Frontend Development.
 
 ---
 
-## 📚 Skills Developed Through These Projects
+# 📚 Skills Developed Through These Projects
 
-### 🔹 Core Fundamentals
+## 🔹 Core Fundamentals
 - Writing clean, semantic HTML
 - Structuring responsive layouts
 - Understanding UI hierarchy and spacing
 
-### 🔹 CSS & Layout
+## 🔹 CSS & Layout
 - Flexbox & positioning
 - Responsive design principles
 - Pixel-perfect UI cloning
 - Tailwind CSS utility-first styling
 
-### 🔹 JavaScript & Interactivity
+## 🔹 JavaScript & Interactivity
 - DOM manipulation
 - Event handling
 - Audio controls & playlist logic
 - LocalStorage data persistence
 
-### 🔹 React Development
+## 🔹 React Development
 - Functional components
 - useState hook
-- Component reusability
+- Component-based architecture
 - Managing application state
 - Persistent storage integration
 
-### 🔹 Version Control
+## 🔹 Version Control
 - Git workflow
 - Meaningful commits
 - Repository structuring
@@ -56,57 +57,71 @@ Projects are organized from **basic → advanced** to clearly showcase my growth
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 - HTML5  
 - CSS3  
 - JavaScript (ES6+)  
 - React.js  
 - Tailwind CSS  
+- LocalStorage API  
 - Git & GitHub  
 
 ---
 
-## 🌐 How to Run the Projects
+# 🌐 How to Run the Projects
 
 ### 1️⃣ Clone the repository
+
 ```bash
 git clone https://github.com/RajputGourish/frontend-projects.git
 ```
 
 ### 2️⃣ Navigate into a project folder
+
 ```bash
 cd project-folder-name
 ```
 
-### 3️⃣ For HTML/CSS Projects
+### 3️⃣ For HTML / CSS Projects
+
 Open `index.html` in your browser.
 
 ### 4️⃣ For React Projects
+
+Install dependencies:
+
 ```bash
 npm install
+```
+
+Start development server:
+
+```bash
 npm start
 ```
 
 ---
 
-## 🎯 Purpose of This Repository
+# 🎯 Purpose of This Repository
 
 This portfolio represents my journey of:
+
 - Learning by building real-world UI clones
 - Improving consistency and code structure
 - Moving from static websites → interactive apps → React-based projects
+- Practicing real-world frontend development patterns
 
 ---
 
-## 👤 Author
+# 👤 Author
 
 **Gourish Rajput**  
 B.Sc. Computer Science Student | Frontend Developer  
 
-- GitHub: https://github.com/RajputGourish  
-- Email: gourishrajput000@gmail.com  
-- Instagram: https://www.instagram.com/rajputgourish  
+GitHub: https://github.com/RajputGourish  
+Email: gourishrajput000@gmail.com  
+Instagram: https://www.instagram.com/rajputgourish  
 
 ---
 
