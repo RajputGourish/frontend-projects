@@ -15,11 +15,12 @@ Projects are organized from **basic → advanced** to clearly showcase my growth
 | 03 | UltraEdit Landing Clone | Real-world landing page recreation | HTML, CSS | 🔗 |
 | 04 | Netflix Landing Page Clone | Complex hero section & UI replication | HTML, CSS | 🔗 |
 | 05 | Spotify Music Player Clone | Audio player with dynamic playlist & JS logic | HTML, CSS, JavaScript | 🔗 |
-| 06 | X (Twitter) UI Clone | Social media layout using Tailwind CSS | HTML, Tailwind CSS | 🔗 |
-| 07 | To-Do List App (React) | Component-based task manager with LocalStorage persistence | React, Tailwind CSS | 🔗 |
-| 08 | Password Manager App | Credential manager with LocalStorage persistence | React, Tailwind CSS | 🔗 |
+| 06 | X (Twitter) UI Clone | Social media interface using Tailwind | HTML, Tailwind CSS | 🔗 |
+| 07 | To-Do List App (React) | Task manager with LocalStorage persistence | React, Tailwind CSS | 🔗 |
+| 08 | Password Manager (LocalStorage) | Credential manager using browser storage | React, Tailwind CSS | 🔗 |
+| 09 | Password Manager (MongoDB) | Full stack credential manager with database integration | React, Node.js, Express.js, MongoDB | 🔗 |
 
-> 🚀 More projects will be added as I continue advancing in Frontend Development.
+> 🚀 New projects will continue to be added as I expand my frontend and full stack development skills.
 
 ---
 
@@ -31,7 +32,7 @@ Projects are organized from **basic → advanced** to clearly showcase my growth
 - Understanding UI hierarchy and spacing
 
 ## 🔹 CSS & Layout
-- Flexbox & positioning
+- Flexbox and positioning
 - Responsive design principles
 - Pixel-perfect UI cloning
 - Tailwind CSS utility-first styling
@@ -39,7 +40,8 @@ Projects are organized from **basic → advanced** to clearly showcase my growth
 ## 🔹 JavaScript & Interactivity
 - DOM manipulation
 - Event handling
-- Audio controls & playlist logic
+- Audio player logic
+- Dynamic UI updates
 - LocalStorage data persistence
 
 ## 🔹 React Development
@@ -47,7 +49,13 @@ Projects are organized from **basic → advanced** to clearly showcase my growth
 - useState hook
 - Component-based architecture
 - Managing application state
-- Persistent storage integration
+- Persistent data handling
+
+## 🔹 Full Stack Development
+- REST API integration
+- Backend server setup with Node.js & Express
+- MongoDB database operations
+- Connecting frontend applications with backend services
 
 ## 🔹 Version Control
 - Git workflow
@@ -64,6 +72,9 @@ Projects are organized from **basic → advanced** to clearly showcase my growth
 - JavaScript (ES6+)  
 - React.js  
 - Tailwind CSS  
+- Node.js  
+- Express.js  
+- MongoDB  
 - LocalStorage API  
 - Git & GitHub  
 
@@ -95,7 +106,21 @@ Install dependencies:
 npm install
 ```
 
-Start development server:
+Start the development server:
+
+```bash
+npm start
+```
+
+### 5️⃣ For Full Stack Projects
+
+Start backend server:
+
+```bash
+node server.js
+```
+
+Then start frontend:
 
 ```bash
 npm start
@@ -108,9 +133,9 @@ npm start
 This portfolio represents my journey of:
 
 - Learning by building real-world UI clones
-- Improving consistency and code structure
-- Moving from static websites → interactive apps → React-based projects
-- Practicing real-world frontend development patterns
+- Improving code structure and UI accuracy
+- Moving from static websites → interactive applications → full stack development
+- Practicing real-world frontend and JavaScript development patterns
 
 ---
 
@@ -125,4 +150,4 @@ Instagram: https://www.instagram.com/rajputgourish
 
 ---
 
-> Built with consistency and the goal of becoming a better developer every day 🚀
+⭐ Built with consistency and the goal of becoming a better developer every day.
