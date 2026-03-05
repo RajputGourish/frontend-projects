@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.mycontainer {
+    @apply md:container md:px-60 md:mx-auto ;
+  }
