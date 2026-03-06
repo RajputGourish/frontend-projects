@@ -1,0 +1,50 @@
+{
+  "node": {
+    "40e3364cbf3d2d18c766bafe7191474712687c10ad": {
+      "workers": {
+        "app/[username]/page": {
+          "moduleId": "[project]/.next-internal/server/app/[username]/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/useractions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "fetchuser",
+          "filename": "actions/useractions.js"
+        }
+      },
+      "layer": {
+        "app/[username]/page": "action-browser"
+      },
+      "exportedName": "fetchuser",
+      "filename": "actions/useractions.js"
+    },
+    "40ae85a6b360cc756b58693374329ece0941e9c795": {
+      "workers": {
+        "app/[username]/page": {
+          "moduleId": "[project]/.next-internal/server/app/[username]/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/useractions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "fetchpayments",
+          "filename": "actions/useractions.js"
+        }
+      },
+      "layer": {
+        "app/[username]/page": "action-browser"
+      },
+      "exportedName": "fetchpayments",
+      "filename": "actions/useractions.js"
+    },
+    "7053d317ffd62adc31fd82bacb7e03c17e4a266568": {
+      "workers": {
+        "app/[username]/page": {
+          "moduleId": "[project]/.next-internal/server/app/[username]/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/useractions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "initiate",
+          "filename": "actions/useractions.js"
+        }
+      },
+      "layer": {
+        "app/[username]/page": "action-browser"
+      },
+      "exportedName": "initiate",
+      "filename": "actions/useractions.js"
+    }
+  },
+  "edge": {}
+}

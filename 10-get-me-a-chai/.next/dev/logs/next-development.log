@@ -1,0 +1,31 @@
+[00:00:04.109] Server  LOG     ✓ Ready in 3.1s
+[00:00:26.152] Server  LOG     ○ Compiling / ...
+[00:00:36.873] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:40.036] Server  LOG     ○ Compiling /api/auth/[...nextauth] ...
+[00:00:50.935] Server  WARN    [next-auth][warn][NEXTAUTH_URL] "\nhttps://next-auth.js.org/warnings#nextauth_url"
+[00:00:50.937] Server  WARN    [next-auth][warn][NO_SECRET] "\nhttps://next-auth.js.org/warnings#no_secret"
+[00:01:07.448] Server  ERROR   [next-auth][error][SIGNIN_OAUTH_ERROR] "\nhttps://next-auth.js.org/errors#signin_oauth_error" "client_id is required" {}
+[00:01:10.866] Server  ERROR   [next-auth][error][SIGNIN_OAUTH_ERROR] "\nhttps://next-auth.js.org/errors#signin_oauth_error" "client_id is required" {}
+[00:01:12.163] Server  ERROR   [next-auth][error][SIGNIN_OAUTH_ERROR] "\nhttps://next-auth.js.org/errors#signin_oauth_error" "client_id is required" {}
+[00:01:13.196] Server  ERROR   [next-auth][error][SIGNIN_OAUTH_ERROR] "\nhttps://next-auth.js.org/errors#signin_oauth_error" "client_id is required" {}
+[00:01:14.437] Server  ERROR   [next-auth][error][SIGNIN_OAUTH_ERROR] "\nhttps://next-auth.js.org/errors#signin_oauth_error" "client_id is required" {}
+[00:01:16.814] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:17.973] Server  ERROR   [next-auth][error][SIGNIN_OAUTH_ERROR] "\nhttps://next-auth.js.org/errors#signin_oauth_error" "client_id is required" {}
+[00:01:19.073] Server  ERROR   [next-auth][error][SIGNIN_OAUTH_ERROR] "\nhttps://next-auth.js.org/errors#signin_oauth_error" "client_id is required" {}
+[00:01:23.759] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:24.793] Server  ERROR   [next-auth][error][SIGNIN_OAUTH_ERROR] "\nhttps://next-auth.js.org/errors#signin_oauth_error" "client_id is required" {}
+[00:01:25.684] Server  ERROR   [next-auth][error][SIGNIN_OAUTH_ERROR] "\nhttps://next-auth.js.org/errors#signin_oauth_error" "client_id is required" {}
+[00:01:26.442] Server  ERROR   [next-auth][error][SIGNIN_OAUTH_ERROR] "\nhttps://next-auth.js.org/errors#signin_oauth_error" "client_id is required" {}
+[00:01:27.980] Server  ERROR   [next-auth][error][SIGNIN_OAUTH_ERROR] "\nhttps://next-auth.js.org/errors#signin_oauth_error" "client_id is required" {}
+[00:01:35.335] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:38.247] Server  ERROR   [next-auth][error][SIGNIN_OAUTH_ERROR] "\nhttps://next-auth.js.org/errors#signin_oauth_error" "client_id is required" {}
+[00:01:39.593] Server  ERROR   [next-auth][error][SIGNIN_OAUTH_ERROR] "\nhttps://next-auth.js.org/errors#signin_oauth_error" "client_id is required" {}
+[00:01:42.159] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:53.722] Server  LOG     MongoDB Connected: localhost
+[00:01:56.665] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:00.885] Server  LOG     MongoDB Connected: localhost
+[00:02:02.222] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:02.724] Server  LOG     MongoDB Connected: localhost
+[00:02:02.904] Server  LOG     MongoDB Connected: localhost
+[00:02:16.194] Server  LOG     MongoDB Connected: localhost
+[00:02:36.152] Server  LOG     MongoDB Connected: localhost
