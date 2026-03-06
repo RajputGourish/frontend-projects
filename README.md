@@ -1,8 +1,8 @@
 # 🚀 Frontend Projects Portfolio
 
-A curated collection of frontend projects built while learning and mastering **HTML, CSS, JavaScript, React, and Tailwind CSS**.
+A curated collection of frontend and full stack projects built while learning and mastering **HTML, CSS, JavaScript, React, Tailwind CSS, Next.js, and modern web technologies**.
 
-Projects are organized from **basic → advanced** to clearly showcase my growth from static pages to interactive and state-driven applications.
+Projects are organized from **basic → advanced** to clearly showcase my growth from static pages to interactive applications and full stack development.
 
 ---
 
@@ -19,6 +19,7 @@ Projects are organized from **basic → advanced** to clearly showcase my growth
 | 07 | To-Do List App (React) | Task manager with LocalStorage persistence | React, Tailwind CSS | 🔗 |
 | 08 | Password Manager (LocalStorage) | Credential manager using browser storage | React, Tailwind CSS | 🔗 |
 | 09 | Password Manager (MongoDB) | Full stack credential manager with database integration | React, Node.js, Express.js, MongoDB | 🔗 |
+| 10 | Get Me A Chai (Patreon Clone) | Creator support platform with online payments | Next.js, Tailwind CSS, Razorpay | 🔗 |
 
 > 🚀 New projects will continue to be added as I expand my frontend and full stack development skills.
 
@@ -53,9 +54,11 @@ Projects are organized from **basic → advanced** to clearly showcase my growth
 
 ## 🔹 Full Stack Development
 - REST API integration
-- Backend server setup with Node.js & Express
+- Backend development with Node.js & Express
 - MongoDB database operations
 - Connecting frontend applications with backend services
+- Handling payment gateway integration (Razorpay)
+- Building applications with Next.js framework
 
 ## 🔹 Version Control
 - Git workflow
@@ -71,10 +74,12 @@ Projects are organized from **basic → advanced** to clearly showcase my growth
 - CSS3  
 - JavaScript (ES6+)  
 - React.js  
+- Next.js  
 - Tailwind CSS  
 - Node.js  
 - Express.js  
 - MongoDB  
+- Razorpay Payment Gateway  
 - LocalStorage API  
 - Git & GitHub  
 
@@ -86,68 +91,3 @@ Projects are organized from **basic → advanced** to clearly showcase my growth
 
 ```bash
 git clone https://github.com/RajputGourish/frontend-projects.git
-```
-
-### 2️⃣ Navigate into a project folder
-
-```bash
-cd project-folder-name
-```
-
-### 3️⃣ For HTML / CSS Projects
-
-Open `index.html` in your browser.
-
-### 4️⃣ For React Projects
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Start the development server:
-
-```bash
-npm start
-```
-
-### 5️⃣ For Full Stack Projects
-
-Start backend server:
-
-```bash
-node server.js
-```
-
-Then start frontend:
-
-```bash
-npm start
-```
-
----
-
-# 🎯 Purpose of This Repository
-
-This portfolio represents my journey of:
-
-- Learning by building real-world UI clones
-- Improving code structure and UI accuracy
-- Moving from static websites → interactive applications → full stack development
-- Practicing real-world frontend and JavaScript development patterns
-
----
-
-# 👤 Author
-
-**Gourish Rajput**  
-B.Sc. Computer Science Student | Frontend Developer  
-
-GitHub: https://github.com/RajputGourish  
-Email: gourishrajput000@gmail.com  
-Instagram: https://www.instagram.com/rajputgourish  
-
----
-
-⭐ Built with consistency and the goal of becoming a better developer every day.
