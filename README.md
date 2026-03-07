@@ -20,6 +20,7 @@ Projects are organized from **basic → advanced** to clearly showcase my growth
 | 08 | Password Manager (LocalStorage) | Credential manager using browser storage | React, Tailwind CSS | 🔗 |
 | 09 | Password Manager (MongoDB) | Full stack credential manager with database integration | React, Node.js, Express.js, MongoDB | 🔗 |
 | 10 | Get Me A Chai (Patreon Clone) | Creator support platform with online payments | Next.js, Tailwind CSS, Razorpay | 🔗 |
+| 11 | BitLinks URL Shortener | Generate and manage short URLs | Next.js, Node.js, MongoDB | 🔗 |
 
 > 🚀 New projects will continue to be added as I expand my frontend and full stack development skills.
 
